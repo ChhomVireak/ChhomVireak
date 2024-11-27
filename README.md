@@ -19,7 +19,7 @@
 
 <br>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://github.com/itskdey">
+  <a href="https://github.com/ChhomVireak">
     <img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" />
   </a>
 </div>
