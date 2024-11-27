@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @ChhomVireak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ChhomVireak/ChhomVireak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Title -->
+<h2 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Chhom Vireak</a></b>
+        </samp>
+        
+</h2>
